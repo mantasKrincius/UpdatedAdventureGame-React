@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Gladiator",
+    "hp": 50,
+    "attack": 10,
+    "defense": 10,
+    "level": 1,
+    "questMark": "Gladiator secret tattoo",
+    "exp": 10,
+    "gold": 3,
+    "location": "arena",
+    "img": "https://avatarfiles.alphacoders.com/787/thumb-78759.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Mercenary",
+    "hp": 300,
+    "attack": 30,
+    "defense": 15,
+    "level": 1,
+    "questMark": "Beginner Rune",
+    "exp": 20,
+    "gold": 5,
+    "location": "arena",
+    "img": "https://avatarfiles.alphacoders.com/890/thumb-89034.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Arena Champion",
+    "status": "boss",
+    "hp": 500,
+    "attack": 80,
+    "defense": 50,
+    "questMark": "Special Charm",
+    "level": 1,
+    "exp": 10,
+    "gold": 10,
+    "location": "arena",
+    "img": "https://avatarfiles.alphacoders.com/223/thumb-223790.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gray Wolf",
+    "hp": 20,
+    "attack": 5,
+    "defense": 2,
+    "questMark": "Fang Neck",
+    "level": 1,
+    "exp": 50,
+    "gold": 5,
+    "location": "gateway",
+    "img": "https://avatarfiles.alphacoders.com/124/thumb-124690.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mystic Wolf",
+    "hp": 20,
+    "attack": 5,
+    "defense": 2,
+    "questMark": "",
+    "level": 1,
+    "exp": 50,
+    "gold": 5,
+    "location": "gateway",
+    "img": "https://avatarfiles.alphacoders.com/155/thumb-155296.jpg"
+  },
+  {
+    "id": 5,
+    "name": "DreamLand Wolf",
+    "hp": 20,
+    "attack": 5,
+    "defense": 2,
+    "questMark": "",
+    "level": 1,
+    "exp": 50,
+    "gold": 5,
+    "location": "gateway",
+    "img": "https://avatarfiles.alphacoders.com/652/thumb-65215.jpg"
+  }
+]

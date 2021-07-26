@@ -1,0 +1,10 @@
+.playerInfoDecoration {
+    background-color: slategray;
+    color: white;
+    padding: 10px;
+    border: 7px ridge rgba(28, 110, 164, 0.51);
+    border-radius: 40px 40px 0 40px;
+    width: 150px;
+    margin: 10px;
+
+}

@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Inconsolata', monospace;
+    background-image: url("https://cdn.wallpapersafari.com/51/30/jHZbQ5.jpg");
+    transition: width 2s;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 30px;
+    max-width: 1200px;
+    text-align: center;
+}
+
+.background {
+    background-color: wheat;
+    border: 9px ridge #1C6EA4;
+    border-radius: 40px 40px 40px 40px;
+    padding: 0 20px 0 0;
+}
+
+.d-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.f-wrap {
+    flex-wrap: wrap;
+}
