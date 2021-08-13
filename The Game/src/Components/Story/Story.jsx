@@ -46,8 +46,6 @@ export default function Story() {
                     there is basic items, unique items and boss items and how good they are depends on your level too.
                 </li>
             </ul>
-
-            <h2>Thank You, Mr. Julius Simutis for your patient, for sharing your knowledge and expierence... </h2>
         </div>
     )
 }
