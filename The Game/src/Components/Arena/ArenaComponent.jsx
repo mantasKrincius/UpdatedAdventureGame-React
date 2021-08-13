@@ -19,10 +19,6 @@ export function Arena({location}) {
     const [show, setShow] = useState(false)
     const {hp, attack, defense, exp, gold} = playerCard
 
-    useEffect(() => {
-        localStorage.setItem("playerCard", JSON.stringify([playerCard]))
-    }, [playerCard])
-
     function chalange(creatureHp, creatureAttack, creatureId, creatureName, creatureLvl, creaturedefense, creatureLocation, creatureImg,
                       creatureExp, creatureGold, questMark, creatureStatus) {
         if (creatureLocation === location) { //update for future using
