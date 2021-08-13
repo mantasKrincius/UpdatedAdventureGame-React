@@ -29,22 +29,6 @@ const routes = {
 
 function App() {
     const [playerCard, setPlayerCard] = useContext(PlayerCardContext)
-
-    //todo neveikia, bet kazkur labai arti...
-    // SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data nesu susidures su situo reikalu
-
-    // useEffect(() => {
-    //     const data = localStorage.getItem("playerCard")
-    //     if (data) {
-    //         setPlayerCard(JSON.parse(data));
-    //     }
-    // }, [])
-
-    //todo sitas ikeltas i ArenaComponent kol kas
-    // useEffect(() => {
-    //     localStorage.setItem("playerCard", JSON.stringify([playerCard]))
-    // }, [playerCard])
-
     return (
         <UpdatedCreatureProvider>
             <QuestProvider>
